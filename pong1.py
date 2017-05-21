@@ -1,4 +1,5 @@
 #PONG pygame
+#pygame demo
 
 import random
 import pygame, sys
